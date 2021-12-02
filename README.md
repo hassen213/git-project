@@ -1,2 +1,2 @@
-# git-project
+# git-learning
 git learning
